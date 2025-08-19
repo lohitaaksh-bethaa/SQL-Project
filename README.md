@@ -5,6 +5,7 @@ This project showcases the design of a robust SQL-based relational schema and a 
 ✨ Project Highlights
 
 📊 100+ Transaction Records across customers, products, orders, and order items.
+
 🗄️ Normalized Relational Schema with proper keys & constraints ensuring data integrity.
 🔍 Advanced SQL Queries including CTEs, aggregations, joins, string functions, and conditional logic.
 💡 Business Insights: Customer retention, product performance, sales trends, and email domain analysis.
